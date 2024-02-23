@@ -24,5 +24,7 @@ Evaluate customer behavior regarding the quantity of pizzas ordered per transact
 **Actionable Insights:**
 
 Leverage insights from the data to adapt marketing strategies and promotions.
+
 Identify opportunities for introducing new pizzas or optimizing existing ones.
+
 Enhance operational efficiency by aligning resources with peak order periods.
